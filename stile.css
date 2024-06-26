@@ -134,7 +134,7 @@ ul{
     width: 230px;
     height: 230px;
     margin-left: 10%;
-    border: solid;
+    border: solid 5px;
     border-color: #f0851b;
 }
 
