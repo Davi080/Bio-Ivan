@@ -33,16 +33,16 @@
     .cotenedor_redes2{
         width: 100%;
     }
+    .parrafos{
+        margin: 0 3% 5px 3%;
+    }
+    .parrafos2{
+        margin: 0 3% 5px 3%;
+    }
 }
-@media screen and (max-width: 350px ){
-    .contenido{
-       margin: 0 5px;
-    }
-    .contido_lista{
-        width: 90%;
-        margin-left: 15px;
-        margin-right: 15px;
-    }
+
+@media screen and (max-width: 400px ){
+
     .titulo{
         font-size: 20px;
     }
@@ -51,11 +51,14 @@
         width: 130px;
         height: 130px;
     }
-    .parrafos{
-        margin: 0 3%;
-    }
-    .parrafos2{
-        margin: 0 3%;
-    }
+
+    .contenido{
+        margin: 0 5px;
+     }
+     .contido_lista{
+         width: 90%;
+         margin-left: 15px;
+         margin-right: 15px;
+     }
 
 }
